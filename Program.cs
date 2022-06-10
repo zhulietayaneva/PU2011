@@ -1,4 +1,5 @@
-﻿using System.Globalization;
+//13 юли 2011, вариант 2
+using System.Globalization;
 
 namespace PU2011
 {
